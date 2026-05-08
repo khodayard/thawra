@@ -1,0 +1,1881 @@
+This episode of the day is brought to you by our listeners who support us at patreon.com and by Haymarket books, which has loads of great left-wing titles, perfect for dig listeners like you.
+
+One that you might like is the black anti-fascist tradition by Janelle K. Hope and Bill V.
+
+Mullen.
+
+In this landmark book, scholar activists, Hope and Mullen, show how generations of black activists and intellectuals from I.W.
+
+Wells in the fight against lynching to Angela Y.
+
+Davis in the struggle against the prison industrial complex have stood within a tradition of black anti-fascism.
+
+They explore the powerful ideas and activism, of figures including Claudia Jones, W.E.B. Dubois, and Amy Cesar, and organizations including the Civil Rights Congress, and the Black Liberation Army.
+
+In shining a light on the relationship between fascism and anti-blackness, Hope and Mullen persuasively argue that these writers and organizations developed key tools and strategies for fighting back.
+
+Find the black anti-fascist tradition at haymarketbooks.org, where all paperback books are 20% off every day.
+
+Welcome to The Dig, a podcast from Jacobin magazine.
+
+My name is Daniel Denver, and I'm broadcasting from Providence, Rhode Island.
+
+This is the 10th episode of Fawara, the Diggs rolling series on 20th century Arab politics with historian Abdel Razaktakriti.
+
+Thawara is Arabic for revolution.
+
+It's a word that contains historical multitudes, diverse political radicalisms and revolts that have swept across Arab lands over the past century.
+
+The 1st 9 episodes of this series have taken us from the dawn of European imperialism, through the British and French colonial mandate governments, and the dawn of Zionist settler colonialism in Palestine, from the birth of Arab nationalism, through the Nakba, and the struggle for control of post-colonial Syria, from Nasser and Egypt's free officers movement, to the ensuing regionwide Cold War entwined fight against the Western imperialist Baghdad Pact, and the U.S.'s interventionist Eisenhower doctrine.
+
+An entire set of politics that drove Syria and Egypt into merging as the United Arab Republic in 1958.
+
+Finally, the last 2 episodes told 2 key stories about Arab and Palestinian politics throughout the 1950s.
+
+First, the early years of the movement of Arab nationalists, a key incubator for the Arab and Palestinian new left.
+
+And then, second, the rise of the Palestinian national liberation movement, culminating in the foundation of Fata in 1959.
+
+This installment covers another reservoir of mass movement radicalism, centering on Iraq's July revolution of 1958, which overthrew the imperialist aligned Hashemite monarchy, and brought Iraqi nationalist and military officer Abdul Kareem Kasim to power, or, more specifically, brought Kasim alongside a surging communist party to power.
+
+The July revolution destabilized Western power in the region, and remade the one time monarchy into an expansive developmentalist state that attempted to catalyze a more egalitarian turn in Iraq, though definitely not a communist turn.
+
+So, meanwhile, the communist party, one of the most remarkable communist parties in world history, seemed on the cusp of inaugurating a new anti-imperialist revolutionary process.
+
+But with a decidedly non-communist partner in Kasum.
+
+Quickly, conflict emerged between different revolutionary currents, including between Kasum and his coup co-conspirator Abdul Salamarif, as well as acrimony between Bathists and communists.
+
+Conflicts that included a major dispute over whether to join the United Arab Republic.
+
+The UAR had, just half a year prior, joined Syria and Egypt together into a single super state under Nasser's rule.
+
+Nasser and Kasim, 2 nationalist icons soon clashed as well.
+
+So would Kasum and his increasingly wary supporters among the communists.
+
+This moment of internationalists and intra left political fighting represented serious political and strategic differences over how to take on the counter revolutionary triumvirate that still reigned over most of the region.
+
+Western imperialism, Zionist settler colonialism, and reactionary Arab monarchies.
+
+Yet, they also reflected petty rivalries, and bitter feuds that can't be reduced to matters of political principle.
+
+In Iraq, the class conflict raged, and it sometimes did so indirectly through the sectarian and ethnic modalities through which class was lived.
+
+As so many conflicts mounted.
+
+Kasim failed to secure a new formula for revolutionary nationalist hegemony.
+
+And so the moment of transformative possibilities would eventually close.
+
+Ultimately, as we'll discuss in the next episode, a 1961 military coup, would force serious secession from the United Arab Republic.
+
+And then in 1963, another Syrian military coup, known as the 8th of March Revolution brought the Bath Party to power there.
+
+More coups would come to Baghdad too.
+
+In February 1963, a coup in Iraq, led by Noscerites and Bathists, overthrew Kasim, a coup that was then followed by yet another coup in November 1963, in which the Noscerites and nationalists purged the Bath, and delivered Arif full control.
+
+Yet half a decade later, a 1968 coup brought the Bath Party back to power in Iraq, and decisively so.
+
+The Both would preside over an increasingly authoritarian Iraq, until the U.S. Invasion overthrew Saddam Hussein in 2003.
+
+Before we get started.
+
+I have 2 requests for you, my dear listeners.
+
+I wrote this intro at 1046 p.m. After a long day of housing organizing, we truly put everything into this podcast because it means a lot to us.
+
+And so please, consider 2 things I also humbly ask of you.
+
+First of all, please do support this podcast in general in Thawara, in particular, at patreon.com slash the dig.
+
+This is a political education project.
+
+That's why there's no paywall.
+
+We want everyone imaginable possible to listen, and that's only possible because listeners like you contribute.
+
+We also have thank you gifts, including our wonderful newsletter sent by email to every single contributor.
+
+That's P-A-T-R-E-O-N.com slash the dig.
+
+If you don't believe me about how good the newsletter is, written by the brilliant Ben maybe, check it out at our website, thedigradio.com.
+
+Second, please spread the word about Tawara on social media and in real life.
+
+The history that Ahid's laying out here is truly one of a kind, and we want this history of Arab radicalism, to get out as widely as possible, to this incredibly explosive and inspiring anti-imperialist mass movement, in solidarity with Palestinian liberation.
+
+Along those lines, we're developing a syllabus and study guide to accompany the series, so that it can be taught in universities and study groups wherever.
+
+We'll soon be reaching out to organizations all over the world to explore partnerships.
+
+Stay tuned.
+
+Thanks.
+
+And here's Abdul Razak Chakriti, who teaches history at Rice University.
+
+A scholar of Arab and Palestinian revolutionary movements.
+
+He is the author of Monsoon Revolution, Republicans, sultans, and empires in Oman. And the co-author of the Palestinian Revolution Digital Humanities website, an incredible resource that'll be back online soon.
+
+In response to the creation of the United Arab Republic, the Iraqi Hashimite Kingdom very briefly, in February 1958, united with the Hashimite monarchy in Jordan, to create a confederation called the Arab Union, a remarkably short-lived experiment because, as we'll get to in a few minutes, the Iraqi monarchy was overthrown a few months later on July 14th, 1958.
+
+Generally speaking, what did the UAR's creation mean for the regional order and the balance of power that defined it?
+
+And then I guess also more specifically.
+
+What was the significance or maybe better put the potential significance of this very brief Arab union?
+
+Did it just embody a conservative reaction, a broader conservative reaction to the UAR?
+
+So the creation of the United Arab Republic, put the imperialist forces in the region on the defensive.
+
+This was a very bold step, that entailed, essentially, taking Syria firmly out of the potential intrigues around the belt that pact.
+
+It meant cementing its neutralist position.
+
+It also meant potential threat to the Israeli settler colonial regime on the long run.
+
+Uh, because you now had a unified uh, urban public comprising the 2 most important countries, uh, bordering the settler colonial estate of Israel.
+
+So, and remember, this happened only 10 years after the Nakba.
+
+So you had also certain difficulties for the pro Western allied regimes, particularly Jordan and Iraq, which are the 2 main countries that had very strong Western presence in them.
+
+And Jordan, this Western presence had been now cemented along American lines.
+
+It became increasingly taken over by the United States, previously Jordan was allied with the British, of course, and it continued to be, but after the nationalization of the Jordanian army, the removal of British officers, and all of the developments that we discussed in previous episodes relating to that, you had an increasing tilt towards the United States in that country.
+
+The king of Jordan became now, we can say this now based on documents, actually, it's well documented, and became on the payroll of the CIA.
+
+So that was a very important place for the Western powers, but also Iraq played an even much bigger role, because the Western policy now rested on the idea of counterbalancing Nasser's newly found prestige.
+
+He came out of Suez victorious politically.
+
+He came out of the attempts to undermine him in the early 50s, also victorious by acquiring weapons from the Soviet Union and its allied states.
+
+And also he found alternatives to Western funding for the for the Aswan Haidam.
+
+So now that he had established union with Syria.
+
+He was definitely on the, on the ascendants and the Nazidism, that began to be a prevalent, uh, uh, very potent force uh, in the in the Arab region.
+
+And it had also a very strong media organ, which is, of course, the voice of the Arabs.
+
+It had a range of political forces that were allied with it, including the, of course, the movement aware of nationalists, which became a voluntary arm of Nazism in the region, but also to some extent in the early in the early phase of the UAR, of course, the bath played the key role.
+
+So this was definitely a challenge that the Western forces in the region responded to by encouraging moves, such as the Arab Union, which was created by Jordan and Iraq, that entailed basically unifying to Hasmite monarchies.
+
+In actual reality, there was little concreteness to the Union.
+
+I mean, there were some Iraqi military divisions that were dispatched to Jordan to strengthen its position, and there were steps of that sort.
+
+However, the union never really took a very strong or concrete form.
+
+What did the UAR look like as a government and as a state?
+
+How did Nasser set out to rule a country that I think he'd never even set foot in?
+
+Well, I mean, Nasser's outlook when it came to the UAR was that it was always going to be a single state. Was not going to be a federal union, was going to be a union that uh, depended essentially on incorporating uh, the Syrian government into his own uh, government.
+
+And that was going to be a challenging endeavor.
+
+I mean, his 1st challenge was in the army, of course.
+
+And Syria, as we have seen in previous episodes, had a succession of governments that depended on military coups, and Nasser was very well aware of that, he was also well aware of the fact that the army was politicized.
+
+As we know from previous episodes also, Nelson was opposed to politicization in society as a whole, let alone the military. In particular political parties.
+
+It was opposed to the to that phenomena.
+
+He saw he saw them as a threat to his overall project, which was to create basically a centralized state, a republican character, that would adopt an anti-colonial agenda, adopt a vigorous developmental agenda, basically create a sort of an economic renaissance and a military renaissance of sorts that would enable his country to withstand the pressures of the Cold War period.
+
+He did not want alignment with the Soviets.
+
+He did not want alignment with the United States.
+
+He associated the Muslim brotherhood primarily with a potential of alignment with the United States and the Western powers.
+
+And he associated the Communist Party with the alignment with the Soviet Union.
+
+So in many ways, almost this entire political career, at least up till 67 entailed suppressing these 2 movements.
+
+But that also meant creating a general atmosphere in which political political party life was stifled.
+
+Now, in Syria, this was always going to be a challenge, and not the least because it was political parties, particularly the bath, that played the big role in bringing him to power in that country.
+
+You had, of course, some initial even communist interest in unity with Egypt, but that quickly declined, especially when the communists realized that their own party was going to have to disband itself under Nasser's new rules.
+
+So the communists were the 1st to oppose the idea of, of, uh, folding their their party and Khalib Baghdash famously, uh, announced in, uh, upon the uh, establishment of uh, New Republic and and the uh, Nazir directives to the parties that they have to uh, disband, uh, that there had never been a communist party anywhere that had actually disbanded itself.
+
+So the communists were to be a problem for Nassir.
+
+And later on the Bathis became a problem as well.
+
+The communists refused to disband themselves.
+
+They wanted closer relations with the Soviet Union.
+
+They wanted a whole range of policies that they saw fit with their political program.
+
+But the Bathists wanted a greater share in government.
+
+And both forces started to feel that the new government was not going to deliver in that regard.
+
+We're moving toward Iraq's July revolution of 1958, but before we get there, we need to cover some Iraqi history.
+
+And a lot of that history that I've been reading about to prep for this interview is from the legendary scholar, Hanan Batatu's classic history, the old social classes, and the revolutionary movements of Iraq, a study of Iraq's old landed in commercial classes, and of its communists, Bathus, and free officers.
+
+And in that book, Batatu writes, quote, one must, at least, place the events of July 14th in their natural historic context.
+
+From this perspective, they appear as the climax of the struggle of the whole generation of the middle, lower middle, and working classes.
+
+The culmination of an underlying, deeply embedded insurrectionary tendency, of which the coup of 1936, the military movement of 1941, the Watba of 1948, the Intifada of 1952, and the risings of 1956 were other manifestations.
+
+The free officers were by visible and invisible threads, and in a very profound manner, caught up in this tendency.
+
+And it was, in part, their realization, as clearly comes out in their talk, that action on the popular level alone could not bring down the old regime that drove them to seize the initiative.
+
+We can't get into a detailed analysis of every twist and turn that brings us to 58, but, but, Ahmed, lay out the historical and also political economic arc at work in terms of this larger history of Iraqi anti-colonial revolt that the 1958 revolution emerges from.
+
+So basically, Iraq was very important for Western interests, and all of these episodes were outlined by Professor Batato, the late Professor Batato, who, of course, wrote, as you mentioned, the classic study on Iraq, and in my opinion, of many scholars of the region, the greatest work ever written on any country in the region.
+
+So all of these episodes that he is referring to, had to do somehow with Iraq's relationship with Britain, with Iraq's place in the world as an independent country.
+
+And of course, with Iraq's, uh, ultimately, with Iraq's control over its own uh, natural resources, its own economy and its own foreign relations.
+
+Britain had such a firm hold of Iraq, and it was able to reestablish its hold in the context of the 2nd World War, of course, with the suppression of the Rashid Ali Zulani coup, which we had referred to in earlier episodes.
+
+That left a sense of bitterness within the Iraqi army on the long run.
+
+It also meant that there were many contestations between popular forces, and the regime in Iraq, which was a monarchical regime that had been put in power by the British, and that had very close relations with them.
+
+Now, the, um, we've spoken before about the the logic, uh, that animated uh, the Ashemite uh, monarchies in the in the region, uh, and uh, their overall strategy, which was to work with the imperialists uh, rather than to work against them.
+
+And we explained why they believed that this was the best way forward for themselves, but also for the countries that they controlled.
+
+That was, of course, a very conservative worldview.
+
+It was not shared by the majority of the populace.
+
+And in a way, it was undermined, but even by the official ideology of the Hashemite monarchies.
+
+In some sense, they relied on their legitimation.
+
+And the logic of an Arab nationalism, a conservative version of it, a logic that emphasized the great Arab revolt against the Ottomans, and the idea that they were establishing regimes that would carry these countries forward on a journey of independence.
+
+After all, the Hashemites are the descendants of the Sharif of Mecca.
+
+Absolutely.
+
+So, and they basically been promoting this ideology, but a conservative variant of it. Amongst the Iraqi political movements, the ranks of political movements.
+
+From the 1930s onwards, we see the emergence of a Communist Party, that is very powerful in Iraq, and that grows in power.
+
+I mean, of course, it goes up and down depending on state repression and other internal factors, internal and external factors, but you have a strong communist movement emerging.
+
+You also have other movements.
+
+You have liberal movements represented by different parties in that country, the national Democrats, for example.
+
+You have an Arab nationalist movement that takes a more classic right wing version of it, for the lack of a better term, people like the independence party figures.
+
+But then you have also a nascent bath party that is established from 1949 onwards.
+
+And that party initially has humble beginnings, but it grows in numbers and, you know, throughout the 1950s.
+
+So, uh, that's a political landscape prevailing in Iraq.
+
+Now, each of these political movements had its own agendas, but they were all sensitive to the question of the relationship with Britain.
+
+They wanted genuine independence for Iraq, uh, and they certainly uh, did not want the continuation of British control over the country, which was associated with uh, figures like uh, Norisaid, and like Abdul Allah, the regent there, Iraq had a big problem, uh, from the uh, uh, late 1930s onwards, which is basically uh, a lack of a strong uh, king.
+
+So, this, you know, trend meant that you had, therefore, a certain cleavage between the Norisaid and the regent, and the overall outlook of political movements.
+
+I want you to lay out, Ahmed, a little bit more about the history of the Iraqi Communist Party, because it became a major power, as we'll get into after the 1958 revolution.
+
+What in the decades leading up to that point made the communists such a significant force in Iraq?
+
+What sort of communist party was it?
+
+How did its leadership and mass membership stitched together various working and middle classes from Sunni, Shia, Kurdish, and before the Nakba, even Jewish Iraq?
+
+And those, along with other ethnic and religious groups as well.
+
+How did the party bring them all together across such a very geography and a rapidly changing political economic order and class structure?
+
+When we look at the Communist Party, of course, it had started officially in 1934, but it had roots going back to the 1920s.
+
+By 1934, there had been an official Communist Party established in Iraq.
+
+Now, it went through a phase of major rejuvenation and expansion, uh, under the leadership of Fahed, was uh, the secretary general from the 1941 uh, period onwards.
+
+And basically, the party relied on different sectors of the population.
+
+It, of course, like other communist parties, focused on organizing the proletariat or whatever proletarian forces had existed in Iraq.
+
+So therefore, it had roots in the trade union movement.
+
+It helped contribute to trade union struggles in the country.
+
+Uh, it had roots, uh, play the major role in expanding the women's movement.
+
+And by the way, the women's movement in Iraq was not just some minor phenomena, you know, by the time we get to the early 1950s, or to the late 1950s, you know, it had expanded hugely, and you know, there were more than 53 branches of the women's movement that was led by the communists with 1000s and 1000s of members.
+
+So you had also student ranks joined the party.
+
+It also had an appeal amongst certain national and religious minorities.
+
+You had communist appeal amongst Jewish ranks, as you mentioned.
+
+Of course, not all Jews joined the communist movement.
+
+There were many that had belonged to the more liberal, that had adopted a more liberal outlook or were more connected to trading interests in Baghdad and industrial interests there.
+
+But, uh, of course, uh, there were others that uh, that were, that belonged to the, to other, more disadvantaged classes that, that, uh, that were attracted to the, to the communist uh, movement and and its, and its uh, call.
+
+You had also members of national minorities, like the Kurds, when the communists were able to attract them, because of their internationalist outlook, because of their message of fraternity, of peoples, and really from early on, the Communist Party had represented a sort of idea of fraternal unity between the urban Kurdish peoples and Iraq and advocated very early on national rights for the Kurdish population.
+
+So in many ways, the party had appeal within areas that had really suffered from the agrarian challenges in Iraq, from the landowners, the fact that there was concentration of land ownership in the country was a big issue.
+
+And uh, these are the structural uh, factors that help give the party a broad and diverse uh, social base.
+
+Now, at different points, this base manifested itself in different ways.
+
+The balance of power within the party reflected different elements coming from these different social classes and different, I think, and religious groups.
+
+But there's no doubt that the party could mobilize along very broad base across the country.
+
+From the north, which was predominantly Kurdish to the south, which was predominantly Shia.
+
+I mean, here, I should note, by the way, that we should be careful with just referring to phenomena in Iraq along national or sectarian lines later on, you know, after the American occupation.
+
+These become cemented and they become ossified in a way these identities, they were more open in earlier periods and more fluid.
+
+But nevertheless, of course, they reflect part of the sociological reality in the country and they should they should not be overlooked in any discussion.
+
+And that's the nice thing about studies like Hana Batato is that they account for the class dimension as well as these ethnic and religious dimensions that we refer to.
+
+Obviously, communist parties are a force throughout the region, but why is the Iraqi Communist Party so powerful compared to other Arab countries.
+
+And what was it about the party's method of organization, its approach to the national and social questions that allowed it to revive itself to the point that it was at on the eve of the revolution after having experienced so much brutal repression.
+
+When you look at the class composition in Iraq, we see that there's a growth in the working class and in the proletarian sections of the working class, especially because it's a country with a major oil industry.
+
+So you have, uh, their Iraqi uh, petroleum company, which is a consortium of British and American companies, but also the British government as a share in it.
+
+That's, that's an area where, where you have to have workers uh, operating in the, in the field.
+
+There's a railway sector operating in Iraq.
+
+There are major infrastructural projects that are being built.
+
+So it's a country that has all of these resources and this expanding sector that has that allows for the emergence of an industrial working class base.
+
+It's also a country that's undergoing a major urbanization in this period.
+
+And that urbanization is complemented with major pressures on the peasantry in the countryside, especially because of the high levels of concentration of land ownership.
+
+So when you have this coincidence of massive injustice in the countryside, considerable expansion of industry and urbanization, it's only natural that the communist call would find some following.
+
+But also you have also the national and ethnic questions that we've referred to earlier.
+
+In addition to a very strong history of contestation with imperialism.
+
+This was a country, remember, that the British empire had invested a lot of resources and equipments towards controlling.
+
+And the history of Iraq in a way.
+
+The history of the popular movements in Iraq coincides with this contestation with empire on the one hand, and then with the class interests that had been produced under the rule of the empire.
+
+That's an important thing to think about.
+
+Now, for the communists, I'll give you an illustration of how this works.
+
+One of the main things that the communists were able to do in the 1940s was to actually organize the oil workers and the railway workers.
+
+And throughout this period, you had major strikes. Taking place, you know, between 1945 and 1947, for example, you had huge amount of strikes.
+
+And then you had the Westbap in 1948, which led basically to a coalescence between economic demands, but also around the political demands relating to the Anglo Iraqi defense treaty, and the Anglo Iraqi treaty, which still tied Iraq to British rule.
+
+So the communists were, of course, officially opposed to empire, but also they were they held the banner of class struggle.
+
+So their appeal was quite considerable in those years.
+
+Now, although their appeal is considerable, of course, they're the political force that was combated the most in many ways by the regime and by the British.
+
+And that especially becomes a case, you know, with the end of the of the 2nd World War.
+
+Initially, during the early years of the, you know, after 41 during the years of the Second World War, the communists support the allies, clearly, because of the Soviet position in amongst the allies and because of their opposition to Nazism and fascism.
+
+But as soon as the war ends, they have to, it's only natural that they're going to clash with it with the regime.
+
+And a very heavy-handed policy is adopted towards them.
+
+Many of their caterers are in prison, many of them are arrested.
+
+They, in many ways, pioneer many of the methods of clandestine struggle that become staple and Iraq, but also across the Arab world, as a result of the fact that they have to deal with these structural pressures on them.
+
+As you referenced earlier, one group in Iraqi society that we should discuss more before getting to the revolution are the Kurds. Whose aspirations for national self-determination in Kurdistan play a key role throughout modern Iraqi history, definitely through the present day.
+
+And I want to, I want you to give listeners some key context for for the discussions that will follow periodically throughout the final episodes of this series.
+
+How does the Kurdish movement in Iraq, which has witnessed repeated rounds of armed struggle from various Kurdish factions, how does it 1st emerge under British colonialism and the monarchy, and where does Kurdish national politics in these years leading up to 1958.
+
+How does it fit into or relate to an Iraqi Communist Party, that, as you mentioned, is frequently throughout its history substantially Kurdish.
+
+And lastly, how do Kurdish politics in Iraq throughout this period, compare and relate to what's taking shape elsewhere in Kurdistan, in Iran, Syria, and Turkey.
+
+Kurdish national politics take a lot of different directions after 1958 and we'll get into a bunch of that later on.
+
+But before we get there, lay out that context.
+
+So one thing that is important to note is the structural dynamic here.
+
+So at the end of the 1st World War, and this is really, we always have to go back to the end of the 1st World War, if we want to understand this region.
+
+The peace settlement that took place.
+
+Did not entail the emergence of a Kurdish state.
+
+It created a regional map, uh, in which you had a Turkish state, appearing, and of course, that that Turkish state, uh, came out as a result of a strong and major wharf or independence, that was carried out by a Turkish nationalist figure, uh, Mustafa Kemal at the Turk.
+
+But his outlook was of a chauvinist kind when it came to national minority questions.
+
+So of course, it had very little space for Armenians.
+
+But also it had very little space for Kurds.
+
+Kurds, as far as Mustafa Kamala Turk were concerned, were what he called mountain Turks.
+
+So, uh, this uh, denial over particularity, over national particularity, uh, led eventually to a long history of contestation with the Turkish state, of course, uh, and continues to this very day.
+
+You have a dynamic, and of course, Iran, there occur this regions. As well in the northwest of the country.
+
+Where the situation is slightly different and history is very different because Kurd's relationship to the central authority.
+
+There is more complicated.
+
+They're better integrated to it in some ways, but also there develops a national movement and Kurdish areas there, and that does sometimes lead to armed clashes.
+
+With the Iranian government.
+
+You have a dynamic in Iraq, where the Kurdish areas get absorbed into the modern Iraqi state, which is predominantly an Arab state, and the British project there was to establish an eventually an Arab dynasty there.
+
+So the British had merged, essentially, occurred in areas with the Arab areas, producing modern day Iraq as we know it.
+
+In Syria, there is a smaller Kurdish population than in these other countries, but of course, and it's a slightly different situation when it comes to territorial contiguity of Kurdish areas because what you have there is essentially Kurdish cantons that are separated by areas that are very intermixed and ethnically diverse.
+
+But again, like there, you have predominantly Arab state when it comes to the ethnic makeup of it.
+
+Now, this means that there is always a latent potential for the emergence of Kurdish nationalism after the end of the Ottoman Empire.
+
+The old Ottoman arrangement did not, of course, emphasize ethnic nationalism, as we've discussed earlier.
+
+Because that would have been anathema to the logic of the empire itself, which was a multi-ethnic empire.
+
+And there were broader identities into which people could be absorbed, uh, primarily an Islamic one for Kurds and Arabs, uh, that Kurds and Arabs could be absorbed into.
+
+Because Kurds are predominantly Muslim, of course.
+
+And so are the Arabs, majority are Muslim.
+
+However, once you start establishing nation states, in the region, and you don't have a Kurdish nation state established on the regional map, there was going to be a contradiction between the Kurdish leaderships and the central authorities.
+
+That's the broader kind of context.
+
+Now, Kurdish nationalism is a fairly late comer into the nationalist game.
+
+Initially, you have Turkish nationalism in the case of the Ottoman emperor, it comes 1st and then you have urban nationalism, then you end up with Kurdish nationalism a bit later.
+
+But there was very early on, a rejection of the, uh, idea that Kurz will not have their own state in the case of Iraq.
+
+So, Kurds, of course, launch rebellions against the British imposed map very early on as soon as the modern state of Iraq is established.
+
+These get suppressed.
+
+You know, you have an period, ebbs and flows essentially, when it comes to the relationship with central authorities.
+
+The strongest leadership of Kurds in the early years of the post-World War one period was concentrated in feudal sections of the Kurdish population.
+
+These were strong figures belonging to landowning families, and chiefdoms, Kurdish society, and in the case of Iraq was very much organized along tribal lines, but also it had strong class cleavages within it.
+
+You had landowners and you had you had peasants.
+
+So, you had the development of traditional leaderships, and many of them continued to persist to this very day.
+
+They use a mix of tribalism, but also in earlier periods.
+
+Uh, there were uh, Sophie uh, movements as well, uh, different tarikas, uh, that uh, galvanized uh, people uh, around them politically.
+
+But at the end of the day, the major figures that led these movements belonged to the privileged land owning and tribal cheap thing classes, and a classic example in the case of Iraq is, of course, a Barzani family.
+
+But then you also have under the communists, a new way of organizing Kurds.
+
+And that way of organizing Kurds, uh, depends on a class-based logic that attracts people who do not belong to the uh, to the upper classes, but also it attracts uh, the new young intellectuals start appearing uh, in Kurdish areas.
+
+Students that have studied in Baghdad.
+
+Remember, one sociological feature that's very important, Daniel, to note here, is that for the most part, the Kurdish population was not an urban population originally.
+
+You know, even in big cities like, let's say, Erbil.
+
+Irbil was originally a Turkish cities, it was mainly Turkmans that had inhabited it, but over the years it got, you know, Kurz got the urbanized in it and became part, you know, the majority population there.
+
+And that's the current status of that city.
+
+Kirk Cook is another good example.
+
+It was always historically a Turkman city.
+
+Now, by the way, these statements will not appeal to Kurdish nationalists today, they are not going to like hearing them, but that's the historical truth.
+
+Uh, it's the urban population in these cities was a Turkmen population, uh, which is a feature of the diversity of Iraq's ethnic makeup.
+
+But Kurkuk starts attracting Kurdish working class people because they're working in the oil fields there, and the city starts expanding as a major oil city, because that's one of the richest oil fields in the world.
+
+And of course, the IPC conducts many of its operations there.
+
+So we have these sociological changes taken place.
+
+And of course, that allows for openings for the communist movement.
+
+Communist movement also allows young intellectuals from Kurdish backgrounds to be exposed to new ideas, to be exposed to new ways of thinking about liberation and emancipation.
+
+And therefore, it gains momentum in those circles.
+
+Now, you also have a weird situation going on where the old traditional leaderships find themselves in a situation where they have to express their own political programs, uh, through uh, political parties, and that leads to the emergence of the KDP, for example.
+
+The Kurdish Democratic Party.
+
+Yes, uh, which, uh, of course, initially, the Berzanis play a big role and they continue.
+
+I mean, to play a big role in it.
+
+But they very much they're mixing the feudal and the tribal with the national in a party like that.
+
+So that party somehow attracts also young intellectuals, attracts others from different backgrounds, including later on the big competitor of the Berzani's Jalal Talibani, who later on established his own faction and the Kurdish movement in Iraq.
+
+And who will also play a role in our discussion of the Palestinian revolution or make a cameo appearance.
+
+Absolutely So just to circle back to something that we that we keep touching on, just how substantial was the Kurdish presence, both in terms of the base and leadership of the Iraqi Communist Party, and how and when did that presence and power come about?
+
+So, Daniel, to answer that question, we need to think about the repression of the state, but also the context of the late 1940s.
+
+So we have the Westbed that we referred to, which was a major, major popular uprising that took place, but that was heavily suppressed and that the government blamed the communists for in many ways.
+
+And they even executed the great figure of the party that had really turned it into major force fed in the wake of this.
+
+That was a big blow to the communists.
+
+The other blow came as a result of the their acceptance of the Soviet line around the partition resolution of Palestine.
+
+Initially there was strong opposition to the partition, including amongst Jewish communist members of the party, which were not an unsubstantial insubstantial group and that were very prominent in its intellectual wing, and they had formed like organizations that were opposed to Zionism.
+
+They formed the league against Zionism.
+
+In fact, but they all had to like basically adopt the Soviet line, led also to decline, or the party took a hit in 1947, 48 as a result of that.
+
+So this combination of state repression and the broader geopolitical context, led to a crisis within the party.
+
+And the party, what compensated for the losses in areas, essentially predominantly Arab areas of the country, was the parties getting of strength in the Kurdish areas.
+
+So you have a period of Kurdish ascendancy from 49 till roughly the mid 50s in which you have like a big preponderance of Kurdish leaderships in the party.
+
+By the time we hit the challenges against the Baghdad pact, and the new developments that happened in the 1950s, the party becoming closer to Arab nationalism in some ways, so it was saying that to reformulated its policy, and saying, look, we're not against Arab unity, we're not against Arab nationalism, but we're calling for an unchauvinist nationalism built on the fraternity of Arab and Kurdish peoples.
+
+Uh, you know, uh, so that takes place as the Soviet Union becomes forms better relationships with Nasser, as the Soviet Union, it reformulates its overall policy towards Arab nationalism.
+
+You see something similar happening on the ground with the communists.
+
+This expansion in the in the Arab areas then returns the balance to an earlier phase where you still have Kurdish members, of course, but.
+
+They had suffered from state repression, but also you have an expansion in a new newfound air base because of the adjustment to the neo-geopolitical realities that we're emerging.
+
+It's an increase, the communist increasing embrace of Arab nationalism and leadership, in terms of mobilizing anti-imperialist struggle across the region during the 1950s, as we've been discussing for episodes.
+
+Correct.
+
+In many ways, 1950s is the peak of communist success in the region, between the mid-1950s to the early 60s.
+
+That's, like, especially in the mid 1950s.
+
+That's a period of great achievement for the communists.
+
+Let's say how the July revolution took place, and we inevitably can't do that in all the detail we'd like to because there's so many moving pieces.
+
+There was a civilian component.
+
+There were the Bathists, communists, various nationalist, civilian forces that began to work together, and in February 1957, they form a front of National Union.
+
+And this is all amidst these upheavals over the Baghdad pact and the Suez aggression, the rise of neutralism, the turn toward the USSR, all across the region.
+
+But this civilian opposition was initially in the dark, with regards to what was brewing in the army, which was that a free officers movement, taking inspiration from the Egyptian free officers movement that had orchestrated the 1952 coup in Egypt.
+
+There was one in the works in Iraq, and it was neither communist nor Bathist.
+
+How did the free officers pull off this coup against the Hashemite monarchy and the government of Prime Minister Nuri al Said.
+
+What was the relationship between the free officers, coup, and the civilian mass mobilization?
+
+And how was it that Abdul Karim Kasim and Abdul-Salam Marif became the paramount cool leaders?
+
+Given that they had not been core members of the long-standing free officers conspiracy.
+
+The army in Iraq cannot be seen in isolation of the social forces existing in the country.
+
+Because it was an army that drew, in large part, on conscription, but also on people that came from the lower classes.
+
+I mean, you had to be in the lower end of the middle class or even belonging to the working class to become part of the army because the upper classes in general tended to shy away from military service.
+
+And that's a pattern that we see, you know, in many different countries of the world, of course.
+
+Iraq always relied on military officers that came from that kind of social base.
+
+Now, many of them, of course, had certain ethnic or religious features.
+
+Uh, you know, a lot of them were Sunni Arab officers, uh, in particular that tended to be a major recruitment base, uh, for the officer class, but you also had people with diverse backgrounds, including Adal Kareem Kasim himself, who had an Arab son, your father, but he had a Kurdashi mother.
+
+So, um, you had this, this, this composition, uh, of the army, that reflected basically class interests that were quite different uh, to those in power.
+
+Now, In general, the monarchical regime focused on buying the loyalty of the class of army officers that had certainly those that had higher ranks.
+
+So it offered better pay than many local armies surrounding them and try to give them advantages.
+
+However, they were always connected to political life in the country and 2 different political currents that had existed there.
+
+This meant that they were also affected by the regional and geopolitical contestations that were going on in the region.
+
+For the most part, these people were patriots in the army.
+
+They did not like the idea of subordination to the British Empire.
+
+And that meant that they had, they had contradiction.
+
+When it comes to their political outlook and the actual role, they serve.
+
+Their job was to protect a government that was essentially closely tied to the British.
+
+And that caused a long-term sense of dissonance in a way.
+
+The developments in the region in the 1950s added to that dissonance in substantial ways.
+
+So after the 1952, a cool in Egypt, which, of course, then developed into a revolutionary set, you know, set of changes.
+
+You had people being inspired by the idea of overthrowing the monarchical system and instituting a more patriotic policy, and you had this idea that the army could play a role in that.
+
+And here we're talking of figures that were not members of particular political parties.
+
+The person that comes up with the idea of Rocky, every officers, uh, is a man called Refat El Hasidi, who was a patriot, but was not necessarily ideological in any clear way.
+
+He starts the initial mobilization for the creation of a free officers movement there.
+
+Over the years, uh, the movement picks up steam, you know, in the post 1952 uh, period.
+
+Different officers join it.
+
+Eventually, though, by 1957, you have 2 particular officers joining the movement that were to play a key role in the history of Iraq later on, which were the initial leader of the of the revolutionary period, Post 58, which is Abdel Keri Kasim.
+
+Uh, but also at the Salaamaref, uh, who plays a key role in the, in the, in the actual uh, carrying out of the, of the coup uh, or the revolutionary uh, coup that took place in in, in 1958.
+
+And later becomes the leader.
+
+And later becomes a leader, of course, there is tension, and the other Korean classim that eventually leads to a clash.
+
+So we have here a situation where the military in many ways represented a kind of mosaic, a political mosaic.
+
+There were people that had affinities with the communist, uh, people that were attracted by Ervnasulus ideas.
+
+You had people that were independent, but they were patriotic.
+
+However, All of these different figures were not happy with the British arrangement in the country, and with British control over the country, and all of them were especially coalescing against the idea around the idea of confronting that arrangement, as a result of regional changes, particularly after Suez, throughout in 1956, when you have all of these regional changes happening.
+
+And especially once a tripartite, aggression takes place.
+
+There's real disquantlement in the Iraqi military over Iraq's role in this rangement.
+
+Rocky military is also sensitive to its role in the Baghdad, the role of this government in the Baghdad pact.
+
+It had clearly picked an aligned side with the West.
+
+It was seen as collaborating with imperialist powers.
+
+Which, in general, added to this dissonance that we were talking about.
+
+Iraq was not yet fully independent country, as far as these officers were concerned, because it was still orbiting around this, uh, uh, the West had had not found uh, a formula for breaking away from this uh, Western control.
+
+And at a time when Egypt was being attacked in such a heavy way in 56 that caused a serious crisis.
+
+Now, How was the crisis going to be resolved, was a question that not only depended on the military, but also on what's going on in the civilian politics.
+
+And here, uh, your reference to uh, this united front that had emerged, this national front that had taken shape.
+
+They brought together different forces that differed in their ideologies, but that were all united in their anti-imperialism.
+
+That was very important politically because it meant that the country had a political atmosphere that was amenable for change.
+
+Uh, you know, uh, the National Democrats uh, did not want uh, the continuation of this arrangement with the British.
+
+Certainly, not after 56.
+
+Same goes for the communists.
+
+Same goes for the Bathist, and same goes for the Staklalis, and other traditional Arab nationalist forces in the country.
+
+So, That means that you have an atmosphere that's ripe for change in the country.
+
+Was Iraq's July revolution, an actual revolution, or was it more like a coup as it had been with the free officers in Egypt?
+
+Did the sort of mass popular mobilization that took place in Iraq alongside the free officers coup?
+
+Did that, did that make what took place in Iraq different?
+
+Well, I mean, I think, 1st of all, there's a big debate on whether Egypt was a revolution or not.
+
+I mean, we've talked about that in many ways, I view it as the as a beginning of a revolutionary process in the case of Egypt.
+
+But in the case of Iraq, there's greater popular participation in the events of 1958.
+
+Uh, so you have about 100,000 people that went out in demonstrations in the street, as soon as word uh, reached the masses about what's going on with the, uh, with the army uh, taking power.
+
+So initially, if you want to think about it, the army move was was took the form of a coup.
+
+You had basically 3 divisions, each of them like numbering no more than a 1000 people, entering into the capital, and essentially taking over the royal palace and other key areas in the capital.
+
+But soon you have like big demonstrations that go on.
+
+And many of these are led actually by the Communist Party, and this is a significant thing to bear in mind, because the communists show that they can actually put people on the street.
+
+They can actually produce action.
+
+There were others, of course, that were not communists.
+
+Many people went out in the street at the time.
+
+But there was popular participation in a way, of that, of that sort.
+
+And there was certain, certainly popular enthusiasm.
+
+Uh, for the overthrow of, of the monarchy uh, that took place at the time.
+
+So this meant that you had essentially features of of a revolutionary mobilization that coalesced around the military move that took place.
+
+That's how uh, Anna Batato analyzes it.
+
+I agree with this analysis.
+
+Others disagree.
+
+Others will tell you, you know, without a cool, nothing would have happened.
+
+Therefore, let's just call it a cool.
+
+In general, Western officials tended to downplay the nature of this as a revolution.
+
+But more radical historians tend to emphasize its revolutionary character because they talk about the fact that the changes in the army reflected broader sociological changes reflected a kind of a wave of events and an accumulation of processes that were of a revolutionary nature that affected the army itself.
+
+Hashimite Iraq, as we've discussed with some frequency in prior episodes.
+
+It was a major force for Western imperialism in the region.
+
+In other words, it was not was not a coincidence that the Baghdad military alliance was called the Baghdad Pact.
+
+So what were the July revolution's consequences for a regional balance of power at a time that this balance of power was the product of all these intense conflicts over the Baghdad pact, the Syria crisis, the Eisenhower doctrine?
+
+At the time, US Secretary of State, John Foster Dulles said, quote, if the Iraqi coup succeeds, it seems almost inevitable, that it will set up a chain reaction, which will doom the pro-western governments of Lebanon, Jordan, and Saudi Arabia, and raise grave problems for Turkey and Iran, what did the Iraqi revolution mean for the regional order and and for Western imperialist power within it?
+
+So here, Daniel, we have to look at what are the Western interests in Iraq?
+
+First of all, Iraq's major oil reserves is a big issue for the Western countries.
+
+And as I mentioned earlier, you have the Iraq petroleum company.
+
+But also, the role that that company plays besides the fact that it's Western owned predominantly is that it also ensures the sustenance of the main basis of prosperity for the West in the 1950s.
+
+If you think about it in global terms.
+
+There's reconstruction happening post-second World War. Across Europe and, you know, and there's this economic boom that's going on.
+
+But that's fueled by very low energy prices.
+
+Which is done in an artificial way by suppressing prices in places like Iraq.
+
+Because those countries, uh, like Iraq do not control oil prices.
+
+They're subject to these foreign companies.
+
+Uh, they have to basically export this, this, this good at a very, at a very low price.
+
+And that's a major interest for the West economically.
+
+This is the entire Western post-war, political economic and social order we're talking about here.
+
+Absolutely.
+
+And in many ways, we start seeing challenges to this order, initially, actually not from this region at all.
+
+It comes from Venezuela.
+
+You have the big, big oil fights that happen in the late 40s in Venezuela.
+
+In a way, they start signaling, uh, what could happen in other other spaces.
+
+Big fear is nationalization, of course.
+
+So Iraq plays a big role in keeping the oil prices down.
+
+At the same time, it plays a very important geopolitical role because this is an Arab country that is seen as a counterbalance to Egypt.
+
+Egypt is the largest Arab country in terms of population.
+
+In the Arab East, the next country, in terms of population.
+
+The time was Iraq.
+
+And of course, in terms of its cultural importance, in terms of its weight overall, in our political and cultural life, Iraq has as a 2nd place, essentially, in this region after Egypt.
+
+So, So it's vital for the West to have this country being in there flying in their orbit.
+
+Now, it's also a country that neighbors Turkey, that neighbors Iran, that neighbors the Kuwait, that neighbors, uh, you know, Saudi Arabia, uh, neighbors Jordan, and they were Syria.
+
+It's so important.
+
+Uh, geopolitically in that regard.
+
+So, For the West, this was major shock, having like a revolution like this taking place.
+
+It's a major shock.
+
+Not the least because the revolution initially was supported by the United Arab Republic.
+
+It meant potentially bringing Iraq closer to Nazer Nazirism.
+
+Now, that did not happen as we will explain in a second.
+
+But, um, initially there was that potential, and certainly now they gave their losing political cover in its initial moments, and had even promised officers, uh, Iraqi free officers that he would support any action that they would take against the government in that state.
+
+His media played a big role in creating a popular atmosphere that was favorable to the revolution.
+
+Saltalara, the voice of the Arabs, radio from Cairo, had exposed the imperial commitments and ties that connected the Iraqi government with Britain and the United States.
+
+So, again, this was a major threat to the Western powers, to have this kind of geopolitical new reality, taking, taking place.
+
+So for the international oil majors, the Western corporations that control basically, you know, the vast majority of the global oil economy at this point, which in Iraq is the Iraqi petroleum company.
+
+It's a consortium controlled by Western oil majors.
+
+What exactly is the condition that they're trying to maintain in the market?
+
+So, Daniel, the main imperial interest in the case of Iraq was to ensure that there would continue to be the flow of cheap oil, of course, which is a global necessity, that fuels the post-second World War economic order.
+
+This places like Europe, they had to do reconstruction.
+
+You had major industrial production taking place.
+
+So you needed cheap oil to fuel that, and Iraq, of course, plays a key role in that.
+
+But at the same time, uh, the Western governments wanted to ensure uh, that the interests uh, they're beholden to, the capitalist interests they're beholden to, including the oil companies, which are very powerful, in places like London and Washington, uh, are also satisfied.
+
+So, in a way, you needed to suppress Iraqi oil production to some extent to connect with the realities of overproduction in the 1950s.
+
+But at the same time, make sure that countries like Iraq do not have any impact on prices to, for example, nationalizing oil companies.
+
+So keeping the oil companies in charge, Western oil companies in charge was essential, but also suppressing production in places like Iraq so that the overproduction that was taking place does not drive prices too low for the profitability of oil companies.
+
+So that was the balance that the Western powers were trying to maintain.
+
+And of course, that's to the disadvantage of countries like Iraq, which were major oil producing countries, because their interest is to actually achieve the right price for them to be able to gain the profits they need.
+
+Uh, in a way, there's a contradiction there, uh, because there, the producer is essentially in this case, uh, controlled by the consumer.
+
+The consumer being the main imperialist powers.
+
+They want the right price for them.
+
+But the producer also is not gaining the bulk of the profit because the bulk of the profit is going to the companies of the consumer.
+
+Which were the imperialist companies, uh, the oil companies that were close to the uh, imperial governments in the US and the UK.
+
+I highly recommend that listeners who want to know more about this.
+
+Check out my two-part interview with Giuliano Garavini on an OPEC and the struggle to sort of decolonize the global oil system.
+
+This is Sarah Jeffe, and you are listening to the Dig with Daniel Denver, my favorite podcast for thoughtful discussions on the U.S. Left and beyond, and you can support it on patreon.com.
+
+This episode, like every episode of the dig, is produced in partnership with Jacobin magazine.
+
+Jacobin is an incredible publication.
+
+You've probably seen a lot of what they've published online, but they also have a beautiful print magazine.
+
+It comes out quarterly, and has well over 100 pages packed with illustrations in folk graphics, and some of the best graphic design in the country.
+
+Dig listeners can join 50,000 Jacobin subscribers developing socialist political thought and debate for just $15 a year, $15 gets you an entire year of Jacobin in print, and access to the magazine's entire back catalog.
+
+If you've never subscribed to Jacobin before, you can access this deal by going to bit.le slash dig Jacobin all lowercase.
+
+That's bit.le slash dig Jacobin.
+
+After the coup, Kasim quickly began to sideline his coup d'etat co-conspirator F, and and so Kasim quickly became the unrivaled top leader of the revolutionary government.
+
+And really critically, this is something that the communists who were getting closer and closer to Kassim, that they actively encouraged and emphasized.
+
+How did this relationship between the communists and costum take shape in the early post-revolutionary months?
+
+Each successfully working with the other to elevate themselves above their rivals?
+
+So let's start by emphasizing that Katsim was not a communist.
+
+However, he saw an importance for his relationship.
+
+With the communists and the communists, of course.
+
+So, uh, placed a great deal of importance on, on promoting him.
+
+In many ways, it's the communists that play the key role in promoting us and as the sole leader.
+
+They would march around with a champ being like, Kasum is the sole leader or something like that.
+
+Absolutely.
+
+Absolutely.
+
+This notion that Kazim is the sole leader is very much promoted by them.
+
+But the question that we should ask is why.
+
+So when we look at the initial weeks after their revolution, the main demand that is coming from Arif, but also from many others, is for immediate unity with the United Arab Republic.
+
+Iraq to join the United Air Republic.
+
+And that's a demand is made by the Bathist.
+
+Uh, it's encouraged actually, uh, by the founder of the Bath Party, Michelle Lafla, who is, of course, Syrian.
+
+But who comes to Iraq right after the revolution to promote this idea.
+
+And the Bathus hitch themselves. To a ref.
+
+So there's this kind of parallel thing going on with the communist allying with Kasim, who opposes unification with the UAR, and the Bathus hitching themselves to a ref, who supports unification.
+
+Yes, so, so, uh, so you have this uh, uh, complicated situation going on.
+
+You know, different political movements have to attach themselves to different leaders within the army at this stage, but also, you know, I should note that there are differences within the bath itself.
+
+Rakabi was the head of the party in Iraq at the time was not necessarily pushing for an immediate unity, but then he's put in a difficult position.
+
+When the founder of the party, Michelle Affluk shows up in town, comes from, you know, Syria and is suddenly, you know, pushing big time, this idea.
+
+Remember, the bath party at the stage is not the biggest party.
+
+The communists are much bigger.
+
+You have a few 100 members and, you know, they have a few 1000, you know, fellow travelers, but they're not the biggest political force.
+
+And they have to be careful in the events that take place.
+
+However, the Bathists do in general, of course, eventually, you know, are all committed to the idea of let's join the UAR.
+
+The communists on the other hand, although they they were happy initially with supporting just before the revolution, they were calling for a federal union with the UAR, right after the revolution, they recalibrate their position.
+
+This is partly to do with the policy of the UAR towards the Syrian communist, Khaleb Baghdash, who was head of the Syrian communist, clashes with Nasser, and clashes with the idea of the UAR, by refusing to dissolve the party, and by basically promoting a political program that seemed to be undermining Nasser's authority in Syria, which leads Nasser than to crack down on his party, and to arrest many of its members.
+
+This crackdown on the Syrian communist affects Iraqi communists.
+
+But you have this situation that's very strange, Daniel, where, uh, political contingency and and different changes in different areas of the region affects the politics of each state.
+
+And the end result was tragic.
+
+Because what you have then is the start of an process that had a snowballing effect.
+
+When it came on to the relationship between the communists and the nationalists across the region.
+
+But it starts in Ira.
+
+It starts in Iraq, but it's fundamentally caught up with the Iraq relationship with Nasser in the UAR.
+
+And so these domestic conflicts within Iraq and within the UAR are fundamentally inseparable from conflicts between the UAR and Iraq.
+
+Right.
+
+So the UAR's relationship between is 2 different areas, the what they call the northern region, which is Syria and the southern region, which is Egypt.
+
+So, so, and the decisions of the Egyptian government in relation to the communists in the northern region.
+
+And of course, it has to do with kind of Bigdash himself. And his own decisions to regionalize his struggle with NASA, the struggle of Syrian communists with NASA.
+
+So he's encouraging also, he has, by the way, a lot of weight in the communist movement and the Arab world, not the least because of his strong relationship with the Soviets.
+
+In many ways, he's the leader that they have the closest relationship with, that continues for many years.
+
+So you have this very complicated dynamic going on.
+
+And that means that the communists and Iraq are not enthusiastic about immediate union.
+
+The other thing that's happening is that they're worried, that they would lose their political weight, and now was a moment when, you know, they're the biggest ideological party in the Iraqi scene.
+
+If Iraq joins the UAR, they would not be the biggest party in in a country that bans all parties.
+
+And there's also others, you know, some scholars also emphasize the sectarian dimension.
+
+They say that look at rock as a country that has a lot of Shia in it, the Shia, the Shia, or a social, strong social base for the Communist Party.
+
+Therefore, they're less enthusiastic about a situation where they would be absorbed into a broader, a bigger Arab Sydney country.
+
+I'm I'm less inclined to overemphasize this at this stage.
+
+Because actually, if you look at the run-up to this period, from 56 onwards, there's a great deal of popularity for Nasser India districts.
+
+So, you know, the 2 main Bathist leaders are Shia, for example, that are calling for union.
+
+So can't just be reduced to sectarian factors at this stage.
+
+There is an actual political dimension going on.
+
+Nevertheless, you know, you can't completely discount some element of sectarian outlook in certain circles.
+
+I mean, I would caution against overemphasizing it in those dynamics.
+
+So now this uh, communist hesitants around joining the UAR is uh, basically coincides with uh, with uh, the hesitance that is, that is shown by Abdul Karim Kazim himself, who, uh, basically, initially in the initial uh, period after the revolution is ambiguous.
+
+On these questions, but increasingly, it becomes clear that he sees a separate trajectory for Iraq and he sees himself as basically building a new national project in Iraq.
+
+That's why people sometimes identify him as some sort of Iraqi nationalist figure.
+
+He sees himself as the father of a newly reconstituted nation.
+
+And in some ways again.
+
+This is somebody who represents all the major ethnic and religious groups in the country by virtue of his background.
+
+He also represents a certain middling position when it comes to the social conflicts taking place in the country.
+
+So he belongs to a lower middle class family.
+
+He sees himself as a champion of the working classes and the poor peasantry, while at the same time, not being opposed to capital in its entirety.
+
+So, uh, you have this, these ingredients uh, that coalesce uh, to create a certain outlook.
+
+The drives his conception of his role.
+
+And he certainly does not want to come under the, the, the power of, of, of Nasser or any other figure.
+
+He wants, he wants to lead, uh, in many ways.
+
+I should note, like Nasir, Kasem is an incorruptible figure that's what's interesting is that they're both not very much interested in in financial gain.
+
+You know, they they both, you know, left life with very little property or money.
+
+But they were very much men who had a clear sense, an almost providential sense, of their role in life.
+
+They had this notion that, that, that they had a certain destiny and in the service of their peoples.
+
+So, um, that kind of character uh, gets extinct after after the the death of these 2 men.
+
+By late 1958 and into 1959, the revolutionary tensions begin to unravel and to outright, intense conflict between increasingly hostile revolutionary factions.
+
+And I want to lay out a year plus long arc that has so many twists and turns.
+
+And we're going to have to keep it at a certain level of abstraction.
+
+But let me recap and correct me if I get a detail wrong.
+
+A ref was charged with trying to assassinate Kasum.
+
+He was tried and sentenced to death, and then his death sentence is commuted.
+
+Nationalists quit costumes, cabinet in protest.
+
+There's an attempted military uprising in Mosul in March 1959, backed by Nassar's United Arab Republic.
+
+The uprisings put down.
+
+But there's widespread violence and brutality that has both class and sectarian qualities.
+
+And then in the wake of that, Kasum consolidates power, as his communist allies, sought and received a growing share of power themselves, including armed police power for communist militias on the streets.
+
+Then violence erupted in July 1959 in Kirkuk, with communist aligned Kurds attacking Turkmen, referring back to something we were discussing at the top of the episode.
+
+This is a very mixed city in Kirkuk, violence, again, that has political, sectarian, and class dimensions.
+
+And then finally, in October 1959, Bath Party Assassins, including a young Saddam Hussein, attempted to kill Kasim, but only managed to wound him.
+
+And it was at this point, says Batatu, that Kasum really began turning the regime into a personal dictatorship.
+
+And so after elevating the communists for so long, Kasim then began to check and reduce communist power.
+
+Ultimately really aggressively attacking them.
+
+What should listeners take away Ahmed from this intense series of intertwined and escalating conflicts?
+
+If we want to think of it structurally, you have a situation after the evolution, in which there were multiple ideologies, multiple social interests and multiple ethnic and sectarian interests operating in this one space called Iraq.
+
+And of course, you had severe geopolitical pressures intervening, both on the global level and on the regional level.
+
+And that meant that somebody like Kazim had to find a social base that could support him.
+
+Uh, but at the same time had to be careful, uh, not to, uh, basically be under the control of that social, uh, based.
+
+And by that, I mean, social base is mediated by a political party as well. In this case, because he does not have a party.
+
+Remember, in a way, none of these officers really have a party.
+
+They don't form a party.
+
+And unlike the Egyptian free officers movement.
+
+They do not cohere into a very basically disciplined revolutionary governing body that is controlled by a string single strong figure.
+
+That's what Nasir does in Egypt.
+
+He's able to, uh, essentially creator evolutionary command, uh, in which he's the number one figure.
+
+And of course, he always has to make concessions to other officers, and he does, sometimes to disastrous effects.
+
+But essentially, they find a weight for allocating power and for dividing the distribution of power.
+
+In Iraq, that does not happen.
+
+Immediately.
+
+They're confronted with a big challenge, what is to be done with the UAR, immediately, Ariff takes a position that's very different than classips.
+
+And they clash.
+
+And if, you know, finds a connection with the with the Bathist and and because of the identity of their interests in supporting this, this, uh, this union.
+
+But Khasim makes a set of moves against him that ensure that he's marginalized.
+
+And that he's enabled, unable to completely operate within the military in a way that would undermine, Kasim's power.
+
+At the same time.
+
+You know, you have a situation where the, you have a plurality of political forces operating. None of them can achieve complete permanency, but one of them is particularly strong in terms of its ability to mobilize.
+
+And that's, in this case the communists.
+
+So they're, they're mobilizing, and they're decide to mobilize in support of, of, of class.
+
+Kazim does not want to only rely on them.
+
+It does a couple of moves to try to diversify his base.
+
+He wants to be able to represent different segments. Relying on the communists would have meant that eventually, for example, he would need to completely go down the Soviet path. Relying with the communist would mean alienating figures from the national bourgeoisie that he was keen to maintaining connections with.
+
+People like Muhammad Hadid, uh, who was an industrialist and who was a finance minister and who was very close to to Kazim.
+
+Kasim is trying to achieve good relations with the Soviet Union without losing his connection with the West.
+
+He wants to do some reforms locally that benefit the working classes and the peasantry.
+
+So he does important land reforms.
+
+It does important taxation reforms.
+
+He increases the taxes on the wealthiest segments of society.
+
+But at the same, and of course, uh, his biggest move eventually, and that's really possibly the, the, the, the movie was really aiming towards, is this uh, nationalization of a good uh, chunk of the, the IPC uh, Iraqi petroleum company because in a country like Iraq, that is the most important uh, resource.
+
+So he has his own ambitious program.
+
+But when it comes to social reform. And economic reform, but it is not a revolutionary program, uh, along communist lines.
+
+That means that he has to diversify his base.
+
+That's why, for example, he brings back Mustafa Barzani, who was the head of a major, the Kurdish uprising, he had participated in an effort in Iran, in the 1940s called the Republic of Mahabad, and he comes back from exile, brought in by Abdel Karim Khasan.
+
+That's partly to ensure that he has a social base that could help him contain the Arab nationalist pressure on him, to unify with Egypt, while at the same time having a group other than the communists, to balance them out in his support.
+
+So he's playing a constant balancing game.
+
+Uh, he does not want to completely catastize with the nationalists either, because he wants to make sure that the uh, the communists do not become the sole force in the country.
+
+But that also creates problems for him with the communists.
+
+And later on, you know, he pays the price for not completely destroying the nationalists.
+
+Because at the end of the day, the only faction that stays loyal to him to the very end despite the fact that he cracked down on them was the communist.
+
+I just want to emphasize that by 1960, Kasim goes so far as to support essentially a fake Communist Party taking the legal place of the real Communist Party.
+
+There's suppression of communist press, communist removed from high government post, communist, communist mass organizations, suppressed, communist driven from union leadership.
+
+It gets very bad.
+
+Yes, I mean, it gets very bad, but that's also partly a result of the communists maybe overplaying their hand in some ways.
+
+And in the previous period.
+
+They, they were putting a lot of pressure on class and to, uh, uh, to, to play a bigger role in government.
+
+And here, let's go back to your initial question, Daniel, because it helps us understand the context of that pressure.
+
+We have the crisis that's happening around the nationalists, and that crisis means that a lot of people within the army and elsewhere are disgruntled with us, and you have also the UAR being disgruntled with him.
+
+You know, because of the fact that he's seen as taking an anti-UAR policy, is seen as, uh, objecting to the union, is seen as allowing for attacks on, on Nasser himself even.
+
+And he's seen also as being very close to a communist base that Nasser is trying to tame within his own territories.
+
+So, It's a very complicated story, but it ends up creating tensions.
+
+Here, the localized arena where these tensions actually unfold.
+
+Unfortunately, was already tense.
+
+And initially, it's Mosul.
+
+Uh, that's the biggest initial local test for Abdulkirk class and for everybody else in Iraq.
+
+You have this attempt on the part of UAR backed officers, as well as tribal figures, representing the leadership of Shammar, which is a huge, massive tribal confederation that, by the way, includes tribes in Saudi Arabia, in Syria, Iraq, and to a lesser extent, Jordan.
+
+Somebody is a huge tribal confederation.
+
+In a way, it's a transnational force.
+
+And one of their figures is very important in the Muslim region.
+
+Ahmed Ilyawar.
+
+And now they're connected to a region in the easternmost part of Syria, that is almost contiguous with Iraq.
+
+The boundary doesn't even make sense there.
+
+Later on, by the way, that becomes a region that has attracted a lot of news during the herb spring period because of the presence of ISIS there.
+
+You know, it's, it's this, it's this area that is open, almost an open boundary.
+
+It's, and, um, it has historically joined the 2 countries together.
+
+Mosul was always the closest part of Iraq.
+
+To Syria in that way, as a major city.
+
+And Muslim's historic relationship is with Aleppo, of course, but it's also with this with the Jazeera region in Syria, which has a large somebody base.
+
+So, you have the samad tribal confederation playing a role in the events in Muslim, they're opposed to the policies of Qasim.
+
+Um, there's this uh, promised UAR backing uh, for a coup that they would uh, launch from from, from Mosa.
+
+In Mosul itself, you have a set of contradictions that also facilitate this problem. Is not a stronghold for the communists.
+
+It is a predominantly Arab Sunlicity.
+
+It's countryside is mixed, but it's bordering many Kurdish areas.
+
+So also, it has a complicated historical relationship with Kurdistan.
+
+Kurdistan, Iraq.
+
+Also, it's surrounded by minorities like Azidis, Assyrians, and of course Kurds, that have a tense relationship with the central authority, and the cities that represented central authority historically, in this case, Muslim, even in Ottoman times.
+
+That's where the central authority tended to be concentrated.
+
+And those minorities from the rural areas around Mosul are tend to be aligned with Kasum and help put down the rebellion, but in a pretty messy way.
+
+Some of them are aligned with Qasim and some of them are just aligned with them temporarily for their own interests and purposes.
+
+Some of them have have a, for example, anti-Arb nationalist agenda, you know, in the case of some of the, some of the Kurdish, uh, sections.
+
+Some of the Kurdish sections have communist agenda.
+
+Some have different sort of agendas.
+
+You have scores that are being settled between, for example, Assyrians.
+
+Uh, and and the Musolite uh, Arabs.
+
+It's a very complicated, very ethnically mixed region.
+
+You have also class dynamics going on.
+
+You have classes between different tribal confederations, so many tribal confederations happening there.
+
+And again, what happens in a situation of major upheaval and social change.
+
+Uh, and political change, such as the one that was unleashed by the 1958 Revolution, uh, is that somehow you get class ethnic and and sectarian cleavages as well as ideological ones, all playing out at the same time.
+
+That's why it's so difficult to describe everything that goes on.
+
+But then they coalesce around individual figures.
+
+In this case, individual figures that are, the coalists around are principally, uh, you know, the main individual figure is, uh, the Korean class and what he represents.
+
+But then against them, there's a big coalition developing.
+
+And that coalition includes Arab nationalists who don't like his policy towards the UAR.
+
+Uh, it includes people from landowning classes that don't like his recent announcements around the peasantry and its and its its role, they were likely to lose a lot of land.
+
+The sheikhs of some are, they own huge territories.
+
+Uh, and and that they're big landowners in that part of Iraq.
+
+If Kazim were to carry out this program, they were going to lose 1000s of acres.
+
+So there's all these complicated factors.
+
+And similarly in Kerkuk.
+
+You have the same sort of complex overlapping of of sectarian political class conflicts erupting in a in a very messy and kind of overdetermined manner.
+
+And what the result there is is communist aligned Kurds committing atrocities against Turkmen in the city.
+
+Right.
+
+And it's a and it's a scam and it's a national scandal.
+
+And that, of course, happens right after you had the massacres taken place in Mosa earlier.
+
+So, you have in Muslim this attempted coup, uh, which is referred to as the Shawaf, uh, coup, uh, of 1959, uh, in reference to an army officer that basically, um, uh, was seen as heading the movement.
+
+It wasn't really heading it, but it was part of it, and it gets reference to him.
+
+The coup is badly organized, and uh, pro class and forces are able to suppress it.
+
+But what's very consequential in Muslim is that it pits the communists against the nationalists.
+
+The communists commit atrocities against nationalists there.
+
+They don't have a base in that city, but they actually enter the city.
+
+And um, they organize like a big, once they, they, they start sensing that there's a coup being prepared against class in that city, they organize a big like piece, they, you know, celebration and and, they use it as an excuse to bring in people up to, you know, a couple 100000 people, maybe 250,000 people.
+
+We don't know the exact numbers.
+
+But come in from outside of Musul, they go there.
+
+And, uh, you know, they include people also coming in from Kurdistan, that are Kurdish nationalists, under Berzani's direction, they go in.
+
+There are all these forces coming in, and they're there to protect Kasim, but each for their own reasons.
+
+And they end up killing dozens of people in the process.
+
+Now, once you do that, and once you have, you know, subsequent events, which is a complete crackdown on the bath on the part of Communist Party affiliated organs, which is exactly what happens after the coup, the 59 attempted coup, um, then, you will have scores to be settled for generations ahead.
+
+We cannot actually detach this from what happens later on.
+
+People wonder why why is Saddam so bloody, for example.
+
+You know, in the West, they just pathologize these leaders.
+
+And of course, I'm not saying that Saddam is a good guy.
+
+He was a very brutal character.
+
+But there is a background.
+
+To the bath clash with the communists.
+
+That, that goes back to this, to this phase, this phase plays a kilo role because before that, all of these parties were contesting with the authority.
+
+They were not necessarily clashing with each other in this bloody way.
+
+They competed over recruiting caterers.
+
+They had ideological disagreements.
+
+But that's one thing.
+
+And actually having an armed military clash.
+
+And you know, each party will have its own version.
+
+The communists will tell you we were protecting the, the, the, the government from a reaction where you take over, uh, uh, and, and the, the Bathist will tell you we were fighting for the cause of Arab unity.
+
+But at the end of the day, the fact that, uh, you know, you had this entry of communist affiliated forces and other, of course, social forces in the country, into this, this, this, this city, that's that ensued, creates a bloody atmosphere.
+
+And later on, the battery produces this bloody atmosphere.
+
+In very significant ways, they commit serious atrocities against the communists in turn.
+
+And it becomes a serious long-term cycle of almost a political vendetta.
+
+Emerges out of this, between the bath and the communists.
+
+It also has regional implications.
+
+The bath and communist relations really suffer regionally as a byproduct of what takes place in 1959, which was not good, by the way, for the anti-imperialist future in the region as a whole.
+
+So following the Muslim events, you have the ascendancy of the of the communists and they start getting the, they feel that they have the upper hand in a way, uh, and they feel that they're in a position to even pressure the Kareem Kasim himself. By demanding a greater role in government.
+
+One of the good byproducts of that is that we end up with the 1st uh, minister, women, women minister, in the uh, world.
+
+And as he had delay me.
+
+Basically, uh, she, um, becomes, uh, she, she comes from a feminist movement.
+
+She comes from the Rocky women's movement.
+
+She helps produce a very progressive policy that would challenge long-standing discriminatory policies against women in Iraq.
+
+As a minister.
+
+She really, she really does, uh, push a woman's agenda.
+
+So you have progressive policies that are that are driven by the communists and by their representatives that are very important in this in this period.
+
+And at the same time, however, you have cousin being increasingly resentful at the fact that he's so dependent.
+
+On the communists and he tries to, again, crack down on them at different moments.
+
+One of the moments that matter to him the most, and that lead to that is this moment in Kirkuk, where we, in Kirkuk, We have a clash that is happening, that a local nature, almost an ethnic local attention, along with, you know, again, there were class dynamics to it, other dynamics going on.
+
+But it's essentially a Turkman town, as we mentioned earlier, that has increasingly attracted Kurdish migration and has changed therefore its ethnic character over the years.
+
+Now, there's this big tension that takes place in Kirkuk, uh, of a local nature, uh, that leads to massacres against the, uh, the Turkmans there.
+
+But the big problem for the communists is that the many of the Kurdish perpetrators of that massacre actually belonged to the Communist Party or claimed to be part of the Communist Party.
+
+So, now, most people will tell you these were not really communists.
+
+They were, you know, in the Communist Party itself, actually, then did an auto critique around that, you know, but however, what cannot be discounted is that, is that, uh, the communists were seen as participating in a massacre against the minority there.
+
+And and it was a serious massacre.
+
+It led to many Turquans fleeing their historic city, a city that had lived in for centuries and in which they were the predominant social group in.
+
+That really tarnished the reputation of the party.
+
+It also led to a major crackdown on the part of a class in the long run.
+
+You know, he it felt he needed to control the growth of communist power.
+
+And he had a very difficult set of challenges.
+
+Because he is a communist, but he doesn't want to be dependent on them.
+
+He doesn't want to eliminate the nationalists too much, but he doesn't want to certainly allow for their program to take hold.
+
+He is engaged now in an open confrontation with nothing.
+
+After Muslim events, the Nasser's radio stations are directed at him.
+
+They're critiquing him openly.
+
+Is being attacked.
+
+He undertakes a set of, um, you know, moves to try to, um, uh, counterbalance that, uh, partly by actually offering himself as, as, as a bigger anti-perialist than Nasser himself.
+
+So for example, the 1st Arab regime to officially adopt the idea of training Palestinian officers.
+
+Uh, is that of Abdul Karim Khas.
+
+He starts, uh, the initial nucleus out of which the eventually the past celebration army once the PLO is founded.
+
+They get, you know, the initial passing officers are trained by him.
+
+He says, we need to, we're gonna, you know, train past scenes to be a past line. You know, that's one example.
+
+Another move that he tries to do is to say, uh, Kuwait is part of Iraq historically.
+
+I don't accept the British attempt to detach it from Iraq, and that, of course, leads to a major clash, again, with NASA.
+
+Because NASA supports then Kuwait as an as an independent country.
+
+And that, of course, becomes a major dynamic that gets replayed later on when Saddam Hussein, you know, invades Kuwait.
+
+Three decades later. 3 decades later.
+
+But in this period, Khasem makes the initial claim on, on, on Kuwait.
+
+In the context, of course, where it was clear that British, the British were going to have to leave Kuwait, and they were live in Kuwait because of the rise of a strong independence movement there.
+
+We've described some elements of it, the movement of Web Nationalist plays a big role there.
+
+So there's a strong independence current led by that movement on the popular level, but also, uh, it coincides with the will of the local Emir, uh, Abdullah Salem, uh, who had uh, an agenda that that sought uh, an independent, equate independence.
+
+So at the same time, you know, you have the, the, the British departure, you know, opens a possibility for Hassan to make a bid on Kuwait and he, and he does that.
+
+So he's presenting himself as a figure of Arab unity of a different kind.
+
+He's reclaiming what he saw as lost Iraqi territory.
+
+He, you know, he, he started this, this notion that, well, Kuwait always followed the governor of Basadah under Ottoman Times.
+
+Therefore, Iraq has a claim on it.
+
+It's only because of the British establishing it as a separate entity that it was now separated.
+
+That was the line that he was taken.
+
+Now, of course, No, I was ignoring the fact that, you know, that might have been popular in Kuwait in the 1930s, that kind of line, during the days of King Ghazi in Iraq, actually, there was a movement on the part of Kuwaiti merchants, demanding union with Iraq.
+
+But by the time we get to the 1960s after Kuwait became such a huge oil producer, the class interests in Kuwait are no longer there to support an idea of union with Iraq.
+
+Because it's a very tiny population that is sitting on a sea of oil.
+
+So, so financially, it's much better off being an independent small, almost city state.
+
+Because all of that oil goes to a population numbering very small number compared to that overall.
+
+So so the economic realities create a different kind of orientation, even though Kuwait, of course, is is officially adopting an Arab nationalist line at this stage, but it does not want to fall under Iraqi control.
+
+Did this rivalry between Kasman and Nasser also play out on the economic front?
+
+The historian, Siri Shayeg, has described a sort of policy arms race between Kossum's Iraq and the UAR, each racing to implement successively more egalitarian policies around land reform, the elevation of living standards, nationalizations.
+
+Is that how you would describe it?
+
+Uh, no, I wouldn't describe it in those terms.
+
+I think that they were corresponding to national developments within these countries and class pressures within these countries and ideological developments within these countries.
+
+Now, I wouldn't say I wouldn't say that there was no interest in in each of these figures presenting themselves as a greater champion of the people.
+
+But, look, let me put it this way, Daniel.
+
+There is, The type of history I do connects social structures. And class dynamics and social movements, to political developments.
+
+You know, and all the while situating it within the geopolitical map.
+
+Uh, but but it takes seriously.
+
+What people were trying to do at the time.
+
+Hasim had a set of social pressures on him to enact reforms.
+
+But he also had a vision of reform that corresponded to his outlook.
+
+And he had to, it fit in within a longer history of class struggle within the country in which he was operating.
+
+He ended up taking, by the way, a middle path.
+
+He did not go too radical.
+
+But he went, he undertook some serious radical steps, such as the nationalization of the of the oil company.
+
+But he would have wanted to make that move, whether and not that it existed or not.
+
+Same with Nasir.
+
+I mean, the idea of nationalization, the idea of turning towards socialism.
+
+That had to do with pressures locally, but also with broader ratings of the map, it had to do also with the relations with the Soviet Union.
+
+That had to do with all sorts of factors, with prevalent ways of looking at the economy at the time.
+
+Both were trying to answer a similar question, which is how to create development in the context of a Cold War, you know, in the context of the Cold War.
+
+And in a way, both arrived at a version of almost a social democratic formula.
+
+They did not go down the fully communist path, but they did try to improve the lot of the working in peasant classes.
+
+And was this Arab socialist developmentalist model?
+
+Was it?
+
+Was it successful in terms of improving living standards, boosting health, education, things of that sort.
+
+There's no question that you had an expansion of working class education in this period.
+
+You had greater access to health.
+
+You had numerous gains that were made by the working classes in these countries in this period.
+
+You also had a situation where a certain sort of national bourgeoisie also benefited, that both Egypt and Iraq were economically growing, you know, in the case of Egypt, it was making enormous growth until the 1967 war.
+
+And that was benefiting a certain, you know, type of, you know, national bourgeoisie.
+
+Of course, you had large monopolies and large companies being nationalized and broken up and that leads to major conflicts with national capital, but there's no project on the part of NASA to completely alienate national capital.
+
+And the same is the case for cousin.
+
+In fact, during customs years, many of the big capitalists and industrials celebrate them as golden years for them.
+
+You know, it was the golden age for them because yes, he raised taxation, but he gave many privileges for industrialists.
+
+And they gave them loans from the central bank and so it's it's a complicated, you know, picture.
+
+Now, Shire is saying, however, um, the only, I would say that there is a relevant bit in it, which is, uh, that both would want to boast about their achievements in this regard.
+
+So, so, in it, generally uh, progressive atmosphere where progressive ideologies were on the rise.
+
+The idea of boasting about achievements, including nationalization, and including greater programs that benefit the working class and the peasantry, uh, and land reform and so on, uh, was not something you'd want to hide in in your general publicity.
+
+But is it part of some sort of like competition with, with, with, no, sir?
+
+Don't think so.
+
+We keep mentioning that in that in 1961, Casa made Iraq, the 1st Arab country to unilaterally impose new contract terms on the oil majors, but we haven't really talked about OPEC yet, which was founded in 1960, and Iraq was one of 5 founding members alongside Iran, Kuwait, Saudi Arabia, and Venezuela.
+
+What role was oil playing?
+
+In Iraq and also in Kossam's Iraq and also in this larger wave of anti-imperialist and anti-colonial Arab nationalism that we've spent this entire series discussing.
+
+And then, and then somewhat at odds with this sort of anti-imperialist solidarity, how are increasing oil revenues, changing Arab countries, and also the relationship between those Arab countries, given that different Arab countries, had very different oil resources under their soil.
+
+And this will become profoundly consequential in the decades that follow as well.
+
+Daniel, it's important to remember here that there was major imperialist interest in propping up monarchical regimes, in the Arab, producing region in the Arab East, you know, in those countries that did possess oil resources.
+
+So, in general, the Western powers favored, dealing with individual rulers that have a connection to them, uh, that were conservative, that were tried and tested, uh, that's why they invested heavily in supporting such governments.
+
+In Iraq, that was certainly the case.
+
+But Iraq, uh, had, uh, different sociological makeup, uh, than to that, uh, prevailing in the, in the other oil producing countries in the mess.
+
+Because Iraq 1st of all, at a greater urban, you know, presence, it had cities and urban life, and places like the Gulf had urban life, but it was much smaller, much smaller scale. Historically.
+
+And by the way, I don't want to contribute here to this false notion that that adds anything to do with one place being better than the other.
+
+You know, in fact, much of my scholarship is used to combat.
+
+At that.
+
+I always emphasize the fact that, you know, you had the dynamic political movements in the gulf and I've written on a revolutionary movement there.
+
+And we'll discuss that in some depth and I think in about the episode after next.
+
+Yeah, and it's, and I mentioned this because there's now also great sensitivity in the Arabian Peninsula, around this notion, that sometimes gets propagated, that, oh, they were just a bunch of bedwins that were not civilized and somehow older centers of civilization in the region.
+
+They are more advanced, uh, are like Iraq and Egypt and so on.
+
+You know, there's there's a stock that is stereotyping and hurtful to people that comes out of these.
+
+But it's important to separate, you know, uh, sociological discussion, uh, from uh, this kind of narrow-minded, discriminatory outlooks and stereotyping that goes on.
+
+There is no city like Baldad or Basra or Muslim in the in the Gulf, the stage and not even in Saudi Arabia.
+
+You do have, however, of course, in the western part of Saudi Arabia, you have, it has, you know, an urban life that is connected to the Has, you have in different parts of the Gulf Coast, trading and transit ports and so on that are basically sent to their own merchant classes.
+
+So they have their own dynamics.
+
+But the complexity that you have in Iraq, in terms of the fact that you have a very big urban life.
+
+You have a very rich countryside with, you know, 1000s of villages.
+
+You have a much larger population.
+
+It means that the ability for an imperial power to control it.
+
+Uh is much more complex.
+
+And much more difficult.
+
+The challenge is much more difficult than, let's say, controlling a small space.
+
+Like the Trucial, uh, Oman coast, for example, which is the current United Arab Emirates.
+
+Much smaller population, much smaller territory, or even smaller places like, you know, Bahrain or or Kuwait.
+
+They all have their own complexities and social dynamics.
+
+But Iraq is a very complicated space.
+
+Nevertheless, in Iraq as in elsewhere, they invest in monarchical rule.
+
+Now, that investment fails.
+
+And that poses a threat to the rest of the region.
+
+They're worried about the fall of the monarchical model.
+
+And other oil producing areas.
+
+They were already worried about it, uh, after the fall of the monarchy in in Egypt and after the, the changes that happened post-bardad pack post, uh, the aggression on Suez, uh, uh, on Egypt and post all, all of these dynamics they had with, with NASA.
+
+Oil becomes a key question.
+
+Part of the reason why they're fearing Nasser.
+
+Is that this figure is spreading revolutionary ferment.
+
+Without NASA, the revolution in Iraq might have not happened.
+
+He provided an example for these officers.
+
+The the developments that took place in the classes that took place were on the better that pact were driven by him.
+
+You had the tripartite aggression, producing ferment in Iraq and elsewhere.
+
+So these things have their own life, take their own life in shape.
+
+Revolutionary processes are influenced in this region by a major change, uh, like the change, uh, that was brought about by the rise of Nas.
+
+So there is this worry that Egypt is an revolutionary export center that is affecting a region that is rich in oil.
+
+Right, because even though Egypt doesn't have a lot of oil.
+
+For example, under King Saad, and we'll get into this more in a couple episodes, you have an oil, a petroleum minister, Abdullah Al Tariki, who is Noceros, and known as the Red Sheik, because he is a leading founder of OPEC. And calling trying to mobilize the whole oil producing Arab world in the whole oil producing colonial world, post-colonial world to take control of their oil resources.
+
+Absolutely.
+
+And here also, we should think about it across also the ethnic divides existing in this region.
+
+If you look at the Middle East, the 1st challenge, the 1st major nationalization does not take place actually in Egypt.
+
+Takes place in Iran.
+
+With Masada.
+
+And and here, uh, which of course gives another, uh, you know, uh, perspective on what he needs to do with Suez.
+
+And how he needs to deal, you know, when when when people talk about Nassir's fears and paranoia around political parties and so on.
+
+I should remind you that that he's not entirely wrong to say the imperialists are out there to plot against him or others.
+
+If you're going to nationalize, if you're going to make bold moves against him, they will seize opportunity and they will use local forces.
+
+That's what happened to Masoda.
+
+So that informs a certain way of thinking around, around questions of nationalization, and it starts with a nationalization of oil under Masoda.
+
+That leads to a coup carried out against him. You know, we've discussed this in the Iran episodes.
+
+I mean, but in the day, and I think people should listen to that discussion.
+
+But that address is repercussions.
+
+And the biggest imperialist fear is what if this was to become the main phenomenon everywhere in the Middle East?
+
+Can you imagine it would be a disaster for them?
+
+Now, later on, of course, governments in the region that are allied to the to the British and the Americans do end up taking control of the over the oil companies, but that takes place in on terms that are amenable to the west and they do not entail a clash with the west.
+
+These are regimes that are allied to the.. Like the Shaw and and like the Saudis, Saudis now own Aramco.
+
+But when it comes to oil policy, they will consult with the United States, they will have influence Western influence.
+
+And if there is a clash, like the one that took place in 1973.
+
+It's a temporary class.
+
+And in a way, it's not necessarily entirely out of line with the overall interest of oil companies.
+
+You know, they, American oil companies benefited from their rise in prices.
+
+Maybe not the consumers, but there's, there is, it's a complicated uh, phenomena.
+
+That was almost a corrective move for them, price wise.
+
+So these are issues to think about when we're discussing the political economy of this period.
+
+And the connection between geopolitical orientation and political and economic orientation.
+
+On that note, But Tattoo's story, which again, I mean, this is a remarkable, very complex, very long book.
+
+His history is ultimately not just about colonialism and anti-colonial rebellion, but really fundamentally, about the rise of capitalism, the industrial revolution, all of the social and economic upheavals that result from colonialism, inserting Iraq, into the world capitalist market.
+
+And so, But Tatu story is really about the history of class conflict in Iraq, a conflict.
+
+So, through all the geographic, religious, ethnic modalities in which class is lived in Iraq.
+
+What sort of analysis is this?
+
+How does it make sense of everything from why the July revolution happened?
+
+To the social background of communists and Bathus leaders, to what he argues is the ultimate post-revolutionary political triumph of the middle classes?
+
+What's Badatu's method in making sense of Iraqi history?
+
+And how would you summarize his ultimate conclusions?
+
+Well, I mean, I think that the Batato's method relies on accounting for, Class, as you mentioned, without discounting other factors.
+
+And again, he looks at the intersection between questions of class, questions of sect in a country that has multiple religions operating in a country that has a rich, also ethnic diversity to it, in a country that has all sorts of other dynamics going on, but also there was that was connected to a world that goes beyond the Middle East.
+
+It was it's a country that is connected to the decisions of the great powers.
+
+And later on, the decisions of the superpowers.
+
+And of course, we see this to the current phase, even long after, you know, Matatu dies, we have a situation where Iraq was reshaped by foreign imperial invasion by the United States.
+
+Now, it was done under the guise of combating dictatorship or whatever, but of course, in reality, nobody believes that that was the case because look at the situation prevailing there.
+
+It instituted a regime that in many ways is much, much worse, and anything that had preceded it, because it destroyed the local state.
+
+So, I think Batato is recognizant. Of the international factors that were affecting Iraq, uh, as well as the local class dynamics.
+
+This is something that sets them apart from some historians that overemphasize one over the other, or that overemphasize, or even worse, that overemphasize sect, for example, uh, you know, during the invasion of Iraq, there was suddenly this fashion in the Middle East studies, to turn everything into sect, or to turn the whole discussion into terrorism, or Islamic fundamentalism, or you have this incredibly simplistic analysis, but also analysis that ultimately serves imperialist agendas in the region because it says, oh, look, these people are backwards, they're driven by fanaticism.
+
+They have nothing else going on in their social reality.
+
+And essentially, by doing that, you justify their domination and control.
+
+And that's always been the Orientalist game.
+
+So one thing that Batato did in Middle East studies, and I'm going to hear frame it as his contribution, I would say, to Middle East studies, was to actually remind people that, look, this is a real society.
+
+It has its own real internal dynamics and their class dynamics.
+
+Introduce the study of class in a major way to this part of the world.
+
+Uh, of course, there were others that that had class analysis, um, you know, of that generation, you know, you had great people like, and what I have the medic and others.
+
+These were all people that were either communists or influenced by Marxist analysis.
+
+Like, I would say that Batatu is a Mark CN, uh, for sure, but you know, people like, oh, I'm the medical, of course, where card carrying members of the of the Egyptian Communist Party.
+
+So they were Marxists.
+
+But, uh, you know, uh, people like that, they, they, they definitely emphasize class, but they did not discount the other factors. That were operating in a complex place like Iraq.
+
+We should maybe close just by by noting on this afternoon in Rhode Island, uh, late evening in Amman, Jordan, where you are, that Israel appears to be beginning, it's invasion of Rafa, where the, believe the majority of residents of Gaza have now been been pushed by the ongoing. Genocide being carried out with US support there.
+
+Um, we should note at this moment that, that Batatu was, was a Palestinian.
+
+How did that, that identity and that, that, that life experience shape his, his analysis and his great works on on Iraq and Syria?
+
+Yeah, I mean, Batatu was born in Jerusalem.
+
+He is very much a product of that neck but generation that we talked about. Was born in 1926.
+
+So when he left Palestine, he was 22 years old.
+
+And he left during the Nakaba in 1948.
+
+He was one of those Palestinians that lost a homeland and that witnessed the horrors of the of the Nagba.
+
+I don't think that it's it's possible to detach that reality from the way he thought and and the way he viewed the world around him.
+
+He did not write on Palestine.
+
+But of course, you know, that did not come out of a lack of interest in it.
+
+It probably came out of pain, but also, like many Palestinians, of his generation, and even later on, other Palestinians, Palestinians always had an interest in understanding the region around them.
+
+And, and, uh, there is this phenomenon, a Palestinian historical scholarship, on the, uh, uh, Arabian, progressive, uh, Palestinian historical scholarship.
+
+I myself wrote my 1st major work on Oman.
+
+Uh, and on a, on a revolutionary movement in, in, in, on a, The last secular revolution to have occurred in the in the in the Arab East that took place there.
+
+So this general commitment to progressive scholarship was very important for Palestinians.
+
+And I think in many ways, uh, Hana Bata to led the way.
+
+That was the 10th episode of Fawara, the dig series on 20th century Arab politics, with Abdel Razakta Criti, who teaches history at Rice University.
+
+A scholar of Arab and Palestinian revolutionary movements.
+
+He's the author of Monsoon Revolution, Republicans, Sultans, and Empires in Oman, and the co-author of The Palestinian Revolution, Digital Humanities website, an incredible resource that'll be back online soon.
+
+Thanks for listening to The Dig from Jacobin magazine.
+
+As Marx once said, after noting that revolutions are the locomotives of history.
+
+While other podcasts have only interpreted the world in various ways, our point is to change it.
+
+We're posting new episodes every week.
+
+The dig was produced by Alex Lewis.
+
+Our associate producer is Jackson Roach, music by Jeffrey Brodsky.
+
+Our communications coordinator is Sovia Atwood.
+
+Our senior advisors are Via Rio Francos and Ben Maybe.
+
+Check out our vast archives and newsletters at the digradio.com.
+
+Follow us on Twitter and also now Instagram at the Dig Radio, and please find us wherever you get podcasts and subscribe to this podcast.
+
+If it's on iTunes or Spotify or another such platform, please also leave us a nice review.
+
+Those reviews help introduce us to new listeners.
+
+But what really and truly does that is you telling your friends to check out the pod, please make propaganda for us, and do find us at patreon.com and make a monthly or annual contribution to keep this operation up and running strong.
+
+Even a few bucks is huge. 
